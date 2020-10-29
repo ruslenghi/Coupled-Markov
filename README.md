@@ -1,1 +1,1 @@
-
+A Java implementation of an unbiased and parallelizable 2D MCMC sampling technique based on Maximal Coupling . Inside of the repository you will also find a pdf containing a report about the method and its application to a Phylopgenetic analysis.
